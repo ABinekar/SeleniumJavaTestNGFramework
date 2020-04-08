@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="59" started-at="2020-04-01T13:21:16 IST" finished-at="2020-04-01T13:21:16 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="59" started-at="2020-04-01T13:21:16 IST" finished-at="2020-04-01T13:21:16 IST">
+      <class name="com.mycompany.app.SeleniumTest">
+        <test-method status="PASS" signature="getdata()[pri:0, instance:com.mycompany.app.SeleniumTest@56235b8e]" name="getdata" duration-ms="6" started-at="2020-04-01T13:21:16 IST" finished-at="2020-04-01T13:21:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getdata -->
+      </class> <!-- com.mycompany.app.SeleniumTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
